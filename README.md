@@ -28,6 +28,13 @@ OEP/
 ├── requirements.txt         # Python dependencies for deployment
 └── README.md                # Project documentation
 ```
+
+## 👨‍💻 Contributors
+- Om Makwana
+- Krishna Hadiya
+
+---
+
 ## ⚙️ Local Setup
 1. Clone the repository: `git clone https://github.com`
 2. Install dependencies: `pip install -r requirements.txt`
